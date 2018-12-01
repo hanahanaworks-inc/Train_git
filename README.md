@@ -1,4 +1,4 @@
 # Train_git
 git勉強用
 
-test追加だよ
+test追加だよ2
